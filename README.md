@@ -131,7 +131,7 @@ with open("arquivo.txt", "r") as arquivo:
 with open("arquivo.txt", "w") as arquivo:
     arquivo.write("Olá, mundo!")
 ```
-6. Funções Úteis Gerais
+## 6. Funções Úteis Gerais
 ### `type()`
 Retorna o tipo de um objeto.
 
@@ -166,7 +166,7 @@ for indice, fruta in enumerate(frutas):
 # 1: banana
 # 2: laranja
 ```
-7. Funções Avançadas (mas Úteis!)
+## 7. Funções Avançadas (mas Úteis!)
 ### `zip()`
 Combina duas ou mais listas em uma lista de tuplas.
 
